@@ -1,0 +1,8 @@
+Rust is a modern systems programming language designed for speed, safety, and concurrency. 
+    Developed by Mozilla and first released in 2010, Rust aims to provide the performance of low-level languages 
+    like C and C++, while eliminating many of their common bugs and security vulnerabilities. It features a 
+    unique ownership model that enforces memory safety without the need for a garbage collector, making it 
+    ideal for developing high-performance, reliable software. Rust is increasingly popular for systems development, 
+    WebAssembly, embedded systems, and performance-critical applications. Its emphasis on safety, combined with
+    modern syntax and powerful tooling, has made Rust a favorite among developers seeking a safe yet efficient 
+    programming environment.

@@ -1,0 +1,7 @@
+Java is a widely-used, high-level programming language renowned for its portability, 
+    security, and robustness. Developed by James Gosling and released by Sun Microsystems in 1995, Java's core philosophy 
+    is "write once, run anywhere," meaning that code written in Java can run on any device or operating system that has a 
+    Java Virtual Machine (JVM). This platform independence, combined with its object-oriented nature, makes Java a popular 
+    choice for building large-scale enterprise applications, mobile apps (especially Android), web applications, and 
+    embedded systems. Java's extensive libraries, strong community support, and emphasis on reliability have 
+    contributed to its long-standing popularity and importance in the software development industry.
